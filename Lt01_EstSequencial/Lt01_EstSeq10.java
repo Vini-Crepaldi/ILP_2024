@@ -3,7 +3,7 @@
 
 
 import javax.swing.*;
-public class Ex010 {
+public class Lt01_EstSeq10 {
     public static void main(String[] args) {
         double num1, num2;
 

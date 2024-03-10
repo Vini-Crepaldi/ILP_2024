@@ -6,7 +6,7 @@
 
 
 import javax.swing.*;
-public class Ex004 {
+public class Lt01_EstSeq04 {
     public static void main(String[] args) {
         int temperatura;
 

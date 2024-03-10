@@ -4,7 +4,7 @@
 
 import javax.swing.*;
 
-public class Ex008 {
+public class Lt01_EstSeq08 {
     public static void main(String[] args) {
         double valor, montante;
 

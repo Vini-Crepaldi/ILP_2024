@@ -3,7 +3,7 @@
 import javax.swing.*;
 
 
-public class Ex002 {
+public class Lt01_EstSeq02 {
     public static void main(String[] args) {
         double sal,ajt;
         

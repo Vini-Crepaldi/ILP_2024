@@ -2,7 +2,7 @@
 // Calcule e mostre seu volume.
 
 import javax.swing.*;;
-public class Ex007 {
+public class Lt01_EstSeq07 {
     public static void main(String[] args) {
         int lar, alt, comp, AreaTotal;
 

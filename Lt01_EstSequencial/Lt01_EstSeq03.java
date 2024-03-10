@@ -2,7 +2,7 @@
 import javax.swing.*;
 
 
-public class Ex003 {
+public class Lt01_EstSeq03 {
     public static void main(String[] args) {
         double base,alt,area;
         

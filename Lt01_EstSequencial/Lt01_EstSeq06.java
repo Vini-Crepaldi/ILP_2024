@@ -2,7 +2,7 @@
 
 import javax.swing.*;
 
-public class Ex006 {
+public class Lt01_EstSeq06 {
     public static void main(String[] args) {
         int x,y , troca;
 

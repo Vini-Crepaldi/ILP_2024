@@ -5,7 +5,7 @@
 
 import javax.swing.*;
 
-public class Ex005 {
+public class Lt01_EstSeq05 {
     public static void main(String[] args) {
         double a,b,c,delta,r1,r2;
 
