@@ -8,7 +8,7 @@ public class Lt01_EstSeq11{
     
         raio = Double.parseDouble(JOptionPane.showInputDialog("Qual o raio da circunferencia? "));
         comprimento = ((2 * raio) * 3.14);
-        JOptionPane.showMessageDialog(null,"O valor da comprimento é : " + comprimento);
+        JOptionPane.showMessageDialog(null,"O valor da comprimento e : " + comprimento);
 
 
 
