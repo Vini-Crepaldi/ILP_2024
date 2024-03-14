@@ -1,13 +1,14 @@
 //Calcule e mostre o quadrado dos números entre 10 e 150
 
 
-import javax.swing.*;
+//import javax.swing.*;
 public class Lt01_EstRep31 {
     public static void main(String[] args) {
-        //int num;
+        //double num;
 
-        for(int cta = 10; cta >= 15; cta++){
-            JOptionPane.showMessageDialog(null,"O quadrado é "+ cta*cta);;
+        for(int cta = 10; cta <= 150; cta++){
+           // JOptionPane.showMessageDialog(null,"O quadrado é "+ cta*cta);;
+            System.out.println(cta*cta);
         }
 
     }

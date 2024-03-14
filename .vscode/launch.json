@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Lt01_EstDec29",
+            "request": "launch",
+            "mainClass": "Lt01_EstDec29",
+            "projectName": "ILP_2024_a59d56d9"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
