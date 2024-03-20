@@ -11,7 +11,7 @@ public class Lt01_EstRep33 {
 
         
         while (divisivel <= num) {
-            acumulador = (acumulador + 1/divisivel);
+            acumulador = (acumulador + (1/divisivel));
             divisivel++;
             System.out.println(acumulador);;
         }
