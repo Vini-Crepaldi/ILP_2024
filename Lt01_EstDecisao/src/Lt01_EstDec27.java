@@ -15,7 +15,7 @@ public class Lt01_EstDec27 {
         deltaT = Double.parseDouble(JOptionPane.showInputDialog("Tempo gasto: "));
 
         deltaS = (numVol*percurso);
-        velMedia = (deltaS/deltaT);
+        velMedia = ((deltaS/1000)/(deltaT/60));
 
         JOptionPane.showMessageDialog(null,"Velocidade media"+velMedia);
     }

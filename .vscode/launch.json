@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Lt01_EstRep45",
+            "request": "launch",
+            "mainClass": "Lt01_EstRep45",
+            "projectName": "ILP_2024_c472763e"
+        },
+        {
+            "type": "java",
+            "name": "Lt01_EstRep38",
+            "request": "launch",
+            "mainClass": "Lt01_EstRep38",
+            "projectName": "ILP_2024_c472763e"
+        },
+        {
+            "type": "java",
+            "name": "Lt03_Vet03",
+            "request": "launch",
+            "mainClass": "Lt03_Vet03",
+            "projectName": "ILP_2024_c472763e"
+        },
+        {
+            "type": "java",
+            "name": "Lt01_EstDec27",
+            "request": "launch",
+            "mainClass": "Lt01_EstDec27",
+            "projectName": "ILP_2024_c472763e"
+        },
+        {
+            "type": "java",
+            "name": "Lt01_EstSeq13",
+            "request": "launch",
+            "mainClass": "Lt01_EstSeq13",
+            "projectName": "ILP_2024_c472763e"
+        },
+        {
+            "type": "java",
             "name": "Lt01_EstDec19",
             "request": "launch",
             "mainClass": "Lt01_EstDec19",
