@@ -15,7 +15,7 @@ public class Lt03_Vet02 {
 
 
     //Procedimento que carrega o vetor com numeros aleatorios
-    static void carregaVetor(int vet[]){
+    public static void carregaVetor(int vet[]){
         Random random = new Random();
         for(int cta = 0; cta < vet.length; cta++){
             vet[cta] = random.nextInt(1000);
@@ -51,7 +51,7 @@ public class Lt03_Vet02 {
     //Funcao que retorna a media dos valores dentro do vetor
     static float calculaMedia(int vet[]){
         int soma = 0;
-        for(int ind = 1; ind < vet.length; ind ++){
+        for(int ind = 0; ind < vet.length; ind ++){
             soma += vet[ind];
         }
         return (soma/100);
