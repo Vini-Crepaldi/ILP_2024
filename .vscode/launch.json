@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Lt03_Vet05",
+            "request": "launch",
+            "mainClass": "Lt03_Vet05",
+            "projectName": "ILP_2024_bfc3831a"
+        },
+        {
+            "type": "java",
             "name": "Lt01_EstDec19",
             "request": "launch",
             "mainClass": "Lt01_EstDec19",

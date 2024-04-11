@@ -71,8 +71,9 @@ public class Lt03_Vet02 {
             
             switch (cod) {
                 case 1:
-                carregaVetor(vetor);
+                carregaVetor(vetor); // perguntar ao prof
                 break;
+                
                 case 2:
                 mostra(vetor);
                 break;
