@@ -6,6 +6,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "Lt01_EstRep45",
             "request": "launch",
             "mainClass": "Lt01_EstRep45",
@@ -38,6 +39,12 @@
             "request": "launch",
             "mainClass": "Lt01_EstSeq13",
             "projectName": "ILP_2024_c472763e"
+=======
+            "name": "Lt03_Vet05",
+            "request": "launch",
+            "mainClass": "Lt03_Vet05",
+            "projectName": "ILP_2024_bfc3831a"
+>>>>>>> 046e4b110b2980b6f0297207859868554ad33954
         },
         {
             "type": "java",

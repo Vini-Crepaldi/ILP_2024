@@ -66,10 +66,16 @@ public class Lt03_Vet02 {
 
             switch (cod){
                 case 1:
+<<<<<<< HEAD
 
                     carregaVetor(vetor);
                     break;
 
+=======
+                carregaVetor(vetor); // perguntar ao prof
+                break;
+                
+>>>>>>> 046e4b110b2980b6f0297207859868554ad33954
                 case 2:
 
                     mostraVetor(vetor);

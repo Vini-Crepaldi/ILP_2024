@@ -1,0 +1,11 @@
+tamanho x memoria x bits
+= 
+l * c * bits
+l = linha
+c = coluna
+x
+bits
+
+8192 x 8192 x 32 = 2.147.483.648 b = 256
+
+GB = MB 
